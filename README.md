@@ -6,12 +6,12 @@ This API is built with ASP.NET Core following Clean Architecture principles. It 
 
 ## Features
 
-- **Product Management: CRUD operations for products, with details like name, description, price, discount, and image URL.
-- **Categories: Organize products into various categories.
-- **Shopping Cart: Allows users to manage items in their cart.
-- **Orders: Supports order placement and tracking, including shipping and total calculations.
-- **Reviews: Enables users to leave ratings and comments for products.
-- **User Authentication: Uses ASP.NET Identity for secure user management.
+- Product Management: CRUD operations for products, with details like name, description, price, discount, and image URL.
+- Categories: Organize products into various categories.
+- Shopping Cart: Allows users to manage items in their cart.
+- Orders: Supports order placement and tracking, including shipping and total calculations.
+- Reviews: Enables users to leave ratings and comments for products.
+- User Authentication: Uses ASP.NET Identity for secure user management.
 
 ## Database Schema
 
